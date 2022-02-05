@@ -5,6 +5,3 @@ This is a Python 3 Discord token grabber which supports Linux and Windows with t
 * Set up your webhook.
 * Configure your settings.py file to use a webhook and post to yours.
 * Compile your logger!
-
-# How to compile
-Work in Progress
