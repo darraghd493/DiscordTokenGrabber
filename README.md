@@ -6,4 +6,4 @@ This is a Python 3 Discord token grabber which supports Linux and Windows with t
 * Configure your settings.py file to use a webhook and post to yours.
 * Compile your logger!
 
-*Please note that this is only for educational purposes and is not be used. This is only to display how easy you Discord tokens can be compromised and is not designed to be used as a legitimate tool.*
+*Please note that this is only for educational purposes and is not be used. This is only to display how easy you Discord tokens can be compromised and is not designed to be used.*
